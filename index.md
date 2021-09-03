@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ###  My Favorite things about CS 193
 
-- The Class Time
-- The Classroom design
+- The class time
+- The classroom design
 - Location is nice 
 
 1. Numbered
