@@ -13,10 +13,11 @@ Syntax highlighted code block
 
 # Ngat's (Nat) First CS193 Homework 
 ## Header 2
-###  
+###  My Favorite things about CS 193
 
-- Bulleted
-- List
+- The Class Time
+- The Classroom design
+- Location is nice 
 
 1. Numbered
 2. List
